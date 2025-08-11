@@ -1,0 +1,10 @@
+// Create: package.json
+{
+  "name": "vscode-github-example",
+  "version": "1.0.0",
+  "description": "Example using VS Code and GitHub Desktop",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
